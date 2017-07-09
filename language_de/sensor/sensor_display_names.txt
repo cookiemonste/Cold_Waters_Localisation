@@ -1,0 +1,84 @@
+[SONAR]
+usn_an_bqr_2=AN/BQR-2=Abgeleitet von dem deutschen Kriegs GHG Sonar Set, das auf dem Typ XXI-Elektrobooten montiert war, ist das BQR-2 ein Mittelfrequenzsonar, das für die meisten US U-Boote bis zur Thresher und Permit-Klasse geeignet ist. Obwohl es für den Tag ausreichend ist, ist das System seit den 1980er Jahren kläglich veraltet und fast blind gegen alle, bis auf die ältesten sowjetischen Boote.
+
+usn_an_bqs_4=AN/BQS-4=Dieses System bildete die aktive Komponente des Sonar Sets in den 1950er Ära US U-Booten.  Anders als das BQR-2 ist es immer noch mächtig genug, um stille Feinde zu erkennen.
+
+usn_an_bqq_2=AN/BQQ-2=Das erste sphärische integrierte Sonar Array, montiert in den Permit und Sturgeon Klasse U-Booten
+
+usn_an_bqq_5=Diese fortgeschrittene Sonarsuite verwendet ein sphärisches Array mit den neuesten digitalen Signalverarbeitungstechniken und wurde erstmals in den Los Angeles Klasse U-Booten eingeführt und anschließend in die Permit- und Sturgeon-Klassen, wo sie den analogen BQQ-2 Array ersetzt.
+
+usn_bqr_25=BQR-25=Das The BQR-25 Schlepp Array erhöht die Reichweite des passiven Sonars erheblich. Es ist am effektivsten bei niedrigen Geschwindigkeiten, aber leidet unter Lärmsättigung über 10 Knoten. Das Schlepp Array negiert auch den Heckblindbogen, der durch Eigenlärm verursacht wird.
+
+usn_tb_16=TB-16=Das TB-16 Schlepp Array erhöht die Reichweite des passiven Sonars erheblich. Es ist am effektivsten bei niedrigen Geschwindigkeiten, aber leidet unter Lärmsättigung über 10 Knoten. Das Schlepp Array negiert auch den Heckblindbogen, der durch Eigenlärm verursacht wird.
+
+wp_bull_horn=Bull Horn=Dieses Hüllenmontierte aktive / passive Mittelfrequenz Set, wurde auf späteren sowjetischen Schiffen montiert, wo es das frühere Bull Nose Mittelfrequenz Array ersetzte.
+
+wp_bull_nose=Bull Nose=Dies ist ein mittelfrequentes passiv / aktiv Array aus den späten 1960er Jahren. Obwohl es unmöglich war, US U-Boote auf mittlerer Reichweite zu erkennen, wurde dieser Entwurf eindeutig als ein Erfolg von den Sowjets angesehen, die fast auf allen größeren Klasse von Anti-U-Boot-Schiff während der 1970er Jahre ausgerüstet wurden.
+
+wp_wolf_paw=Wolf Paw=Dies ist ein älteres Mittelfrequenz Sonarset, das auf vielen Oberflächenschiffen vor der Einführung von Bull Nose ausgestattet war.
+
+wp_trout_cheek=Trout Cheek=Ein Derivat aus der deutschen Kriegszeit. Das  Balkongerat Sonar ist vergleichbar mit der BQR-2 / BQS-4 Suite, die an die Skipjack Klasse angepasst ist.
+
+wp_squid_arm=Squid Arm=Dies ist ein fortschrittliches, niederfrequentes Sonar-Array, das für auf den Alfa-Klassen U-Boot einzigartig ist. Es speichert hoch automatisierte Befehls- und Kontrollsysteme, dessen Details wenig bekannt sind.
+
+wp_shark_teeth=Shark Teeth=Dieses zylindrische Niederfrequenz Array ist auf den U-Booten Victor, Juliet, Tango und Charlie klassifiziert. Es ist vergleichbar in der Leistung mit dem US BQQ-2 und verdoppelt den Erfassungsbereich im Vergleich zu den früheren Trout Cheek MF Arrays.
+
+wp_shark_gill=Shark Gill=Die jüngste Generation der sowjetischen Sonarsysteme, dieses zylindrische Niederfrequenz Array wird auf U-Booten der Victor III, Charlie II, Delta III und IV, Typhoon und Oscar Klassen verwendet. Im Vergleich zu den früheren Shark Teeth Sets ist es besser als der BQQ-2 der frühen Permit- und Sturgeon-Klassen und fast vergleichbar mit dem BBQ-5, der die neuesten US U-Booten. Es wird gemunkelt, dass eine erweiterte Version von dieser Suite auf der Sierra-Klasse ausgerüstet ist, aber nur wenig ist zu diesem Zeitpunkt bekannt.
+
+wp_buck_toe=Buck Toe=Definitiv veraltet nach den Standards von 1980, ist dies ein Scheinwerfer Stil Hochfrequenz aktives Array, wenig besser als Zweitweltkriegs aktives Sonar.
+
+wp_shark_fin=Shark Fin=Dieses Mittelfrequenz Sonarset stattet einige sowjetische Boote der späten Sechzigerjahre aus, wo sie die aktive Komponente der Shark Teeth Suite bildet.
+
+wp_pike_jaw=Pike Jaw=Dieses Hochfrequenz Sonarset ist bekannt aus den späten 1950er Jahren, wo es die Foxtrot und November Klassen Boote, in der Regel in Verbindung mit Trout Cheek ausrüstet. Es kann daher davon ausgegangen werden, dass Pike Jaw ebenfalls ein Derivat deutscher Kriegsentwürfe ist.
+
+wp_stag_ear=Stag Ear=Ist ein sehr altes Hochfrequenz Sonarset das auf den Whiskey Klassen diesel U-Booten ausgerüstet ist.
+
+wp_foal_tail=Foal Tail=Dieses Hochfrequenz variable Tiefensonar (VDS) ist ein Schiffsderivat des Tauchsonars auf von dem Ka-25 Hormon A Anti-U-Boot-Hubschrauber. Auf kleinere Patrouillenschiffe montiert, bietet es die Fähigkeit, unter der thermischen Schicht zu suchen. Ein gefährliches System, wenn man es in flachen Gewässern begegnet.
+
+wp_mare_tail=Mare Tail=Das große variable Tiefensonar (VDS) wurde zuerst auf den Moskva-Klassen Helikopter Kreuzer gesichtet, und später auf den Kiev, Kara and Krivak Klassen.Es ermöglicht diesen Schiffen bei angewandter Sprint-Drift-Taktik, unter der thermischen Schicht zu scannen.
+
+wp_horse_tail=Horse Tail=Größer und fähiger als das Mare Tail und Horse Tail, ist ein geschlepptes variables niederfrequentes Tiefensonar (VDS), das auf den Kirov und Udaloy Klassen ausstattet ist. Es gibt diesen Schiffen die Möglichkeit, unterhalb der Oberfläche auf beträchtliche Entfernungen zu suchen.
+
+wp_shark_tail=Shark Tail=Dies ist eine passive Niederfrequenz geschlepptes Array, das auf alle sowjetischen U-Boote ab der Victor III Klasse aufwärts installiert ist. Obwohl es nicht vergleichbar mit amerikanischen geschleppten Array-Systemen ist, bietet es den Sowjets eine verbesserte Sonarfähigkeit, die bei früheren Generationen fehlten. Es gab diesen neueren Booten eine Art Quantensprung in Fähigkeiten und Bedrohung, die von ihnen ausgingen.
+
+wp_horse_jaw=Horse Jaw=Dies ist ein Nachfolger des Moose Jaw (Elchkiefers), das auf den Kirov- und Udaloy-Klassen ausstattet ist. Es gibt diesen Schiffen enorme Fähigkeiten gegen sogar stille US-U-Boote.
+
+wp_moose_jaw=Moose Jaw=Das ist ein sehr grosses Niederfrequenz Array. Zuerst beobachtet auf der Moskva, aber auch auf der Kiew-Klasse ausgerüstet.
+
+wp_rgb_56=RGB-56=Placeholder text for sensor.
+
+wp_rgb_64=RGB-64=Placeholder text for sensor.
+
+wp_bm_1=BM-1=Placeholder text for sensor.
+
+wp_bm_2=BM-2=Placeholder text for sensor.
+
+wp_bm_3=BM-3=Placeholder text for sensor.
+
+wp_foal_stork_tail=Foal/Stork Tail=Das Tauchsonar wird von den Ka-25 und Ka-27 Helikopter benutzt.
+
+
+[RADAR]
+usn_bps_12=BPS-12=Masten gestütztes Oberflächen suchendes Radar Ermöglicht es U-Booten, ansonsten nicht nachweisbare Oberflächenkontakte zu erkennen, auf Gefahr der Gegenerkennung durch mit ESM ausgestattete Gegner.
+
+usn_bps_15=BPS-15=Masten gestütztes Oberflächen suchendes Radar Ermöglicht es U-Booten, ansonsten nicht nachweisbare Oberflächenkontakte zu erkennen, auf Gefahr der Gegenerkennung durch mit ESM ausgestattete Gegner.
+
+usn_bps_14_15=BPS-14/15=Masten gestütztes Oberflächen suchendes Radar Ermöglicht es U-Booten, ansonsten nicht nachweisbare Oberflächenkontakte zu erkennen, auf Gefahr der Gegenerkennung durch mit ESM ausgestattete Gegner.
+
+usn_bps_15A=BPS-15A=Masten gestütztes Oberflächen suchendes Radar. Ermöglicht es U-Booten, ansonsten nicht nachweisbare Oberflächenkontakte zu erkennen, auf Gefahr der Gegenerkennung durch mit ESM ausgestattete Gegner.
+
+wp_don_kay=Don Kay= Typisches Oberflächen suchendes Radar Von Schiffen benutzt, um andere Schiffe und Navigationsgefahren zu erkennen. Obwohl sie nicht dazu optimiert, sind diese Sets in der Lage, ein erhöhtes Periskop zu erkennen, wenn die Bedingungen richtig sind.
+
+wp_spin_through=Spin Through=Typisches Oberflächen suchendes Radar. Von Schiffen benutzt, um andere Schiffe und Navigationsgefahren zu erkennen. Obwohl sie nicht dazu optimiert, sind diese Sets in der Lage, ein erhöhtes Periskop zu erkennen, wenn die Bedingungen richtig sind.
+
+wp_snoop_head=Snoop Head=Masten gestütztes Oberflächen suchendes Radar Ermöglicht es U-Booten, ansonsten nicht nachweisbare Oberflächenkontakte zu erkennen, auf Gefahr der Gegenerkennung durch mit ESM ausgestattete Gegner.
+
+wp_snoop_tray=Snoop Tray=Masten gestütztes Oberflächen suchendes Radar Ermöglicht es U-Booten, ansonsten nicht nachweisbare Oberflächenkontakte zu erkennen, auf Gefahr der Gegenerkennung durch mit ESM ausgestattete Gegner.
+
+wp_snoop_plate=Snoop Plate=Masten gestütztes Oberflächen suchendes Radar Ermöglicht es U-Booten, ansonsten nicht nachweisbare Oberflächenkontakte zu erkennen, auf Gefahr der Gegenerkennung durch mit ESM ausgestattete Gegner.
+
+wp_snoop_slab=Snoop Slab=Masten gestütztes Oberflächen suchendes Radar. Ermöglicht es U-Booten, ansonsten nicht nachweisbare Oberflächenkontakte zu erkennen, auf Gefahr der Gegenerkennung durch mit ESM ausgestattete Gegner.
+
+wp_mushroom=Mushroom=Hubschrauber gestütztes Oberflächen suchendes Set, optimiert um Periskope und Masten zu erkennen.
+
+wp_wet_eye=Wet Eye=Luftgestütztes Oberflächen suchendes Set, optimiert um Periskope und Masten zu erkennen.
