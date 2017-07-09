@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=Ka-25 Hormone
+AircraftDescriptiveName=Kamov Ka-25 Hormone
+History=Dies sind kleine Anti-U-Boot (Ka-25A) und Überhorizontradar (Ka-25B) Hubschrauber, die in der Mitte der 1960er Jahren eingeführt wurden. Sie tragen entweder zielsuchenden Torpedos oder Wasserbomben und ein Tauchsonar sowie ein Sortiment von Sonarbojen. Sie sind verdeckt und können Oberflächenschiffe mit Ziel Daten beliefern, was sie zu sehr gefährlichen Feinden macht.

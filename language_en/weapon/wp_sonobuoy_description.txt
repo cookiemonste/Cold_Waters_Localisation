@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Sonobuoy
+WeaponDescriptiveName=Sonobuoy
+WeaponDescription=Soviet aerial dropped sonobuoy equipped with either passive or active sonar.

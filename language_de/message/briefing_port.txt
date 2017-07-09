@@ -1,0 +1,10 @@
+
+Kapitän,
+XO Meldung:
+
+Die Mannschaft genießt etwas Landgang, während wir uns zur Abreise bereit machen.
+
+		Vorrat und Rohre:		<STORESSTATUS>
+		Schadensbericht:			<SYSTEMSSTATUS>
+
+Ihre Befehle Sir?

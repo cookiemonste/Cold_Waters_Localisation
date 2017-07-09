@@ -1,0 +1,10 @@
+Image=campaign/images/pact surface raiders 2
+MissionLocation=In der Nähe vom Nordkap
+Briefing=19 MAR 1984
+Briefing=Eine Sturgeon-Klasse SSN begegnet einer massiven sowjetischen Oberflächen Kampf Gruppe vor dem Nordkap. Das Herzstück der Gruppe ist jedes Skippers Traum: Ein Kirov-Klasse Schlachtkreuzer.
+Briefing=
+Briefing=Primäres Ziel:
+Briefing=Durchqueren Sie die ASW-Abwehr der Gruppe und versenken Sie die Kirov
+Briefing=
+Briefing=Sekundäres Ziel:
+Briefing=Überlebem

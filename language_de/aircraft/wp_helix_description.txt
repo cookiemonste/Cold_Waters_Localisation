@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=Ka-27 Helix
+AircraftDescriptiveName=Kamov Ka-27 Helix A
+History=Der Ka-27 ist ein Folge-Design für den Ka-25 Hormon und verglichen mit seinem Vorgänger ist er schneller, trägt eine schwerere Nutzlast über einen größeren Bereich und hat bessere Sensoren zum Booten. Diese Hubschrauber sollten als eine große Bedrohung betrachtet werden, wo immer sie angetroffen werden.

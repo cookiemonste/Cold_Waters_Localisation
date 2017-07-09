@@ -1,0 +1,84 @@
+[SONAR]
+usn_an_bqr_2=AN/BQR-2=Derived from the German wartime GHG sonar suite as fitted on the Type XXI electroboot, the BQR-2 is a medium frequency sonar fitted to most USN subs until the Thresher/Permit class. Though adequate for its day, by the 1980's this system is woefully obsolete and nearly blind against all but the oldest Soviet boats.
+
+usn_an_bqs_4=AN/BQS-4=This system formed the active component of the sonar suite on 1950's era USN subs. Unlike the BQR-2 though, it is still powerful enough to detect otherwise silent enemies.
+
+usn_an_bqq_2=AN/BQQ-2=The first spherical integrated sonar array, mounted in the Permit- and Sturgeon class submarines.
+
+usn_an_bqq_5=AN/BQQ-5=This advanced sonar suite uses a spherical array with the latest digital signal processing techniques and was first introduced in the Los Angeles-class fast attack submarines, and subsequently to the Permit and Sturgeon classes where it replaced the analog BQQ-2 spherical array.
+
+usn_bqr_25=BQR-25=The BQR-25 Towed Array greatly increases the range of passive sonar. It is most effective at slower speeds but suffers from noise saturation above 10 Kts.\n \nThe Towed Array also negates the stern blind arc that is caused by ownship noise.
+
+usn_tb_16=TB-16=The TB-16 Towed Array greatly increases the range of passive sonar. It is most effective at slower speeds but suffers from noise saturation above 10 Kts.\n \nThe Towed Array also negates the stern blind arc that is caused by ownship noise.
+
+wp_bull_horn=Bull Horn=This hull-mounted active/passive medium frequency set is mounted on later Soviet ships where it replaces the earlier Bull Nose medium frequency array.
+
+wp_bull_nose=Bull Nose=This is a medium-frequency passive/active array dating from the late 1960's. Though incapable of detecting US subs at anything above medium ranges, this design was clearly regarded as a success by the Soviets who equipped it on almost every major class of anti-submarine ship during the 1970's.
+
+wp_wolf_paw=Wolf Paw=This is an older medium frequency sonar set that equipped many surface ships before the introduction of Bull Nose.
+
+wp_trout_cheek=Trout Cheek=This system was derived from the German wartime Balkongerat sonar fitted in the Type XXI. It is comparable to the BQR-2/BQS-4 suite fitted to the Skipjack.
+
+wp_squid_arm=Squid Arm=This is an advanced low frequency sonar array unique to the Alfa-class fast attack submarine where it feeds a highly automated command-and-control system, the details of which little is known.
+
+wp_shark_teeth=Shark Teeth=This cylindrical low frequency array is fitted on the Victor, Juliet, Tango and Charlie class submarines. It is comparable in performance to the US BQQ-2 and doubles the detection range compared to the earlier Trout Cheek MF array.
+
+wp_shark_gill=Shark Gill=The latest generation of Soviet sonar systems, this cylindrical low frequency array is used on submarines where it equips the Victor III, Charlie II, Delta III and IV, Typhoon and Oscar classes. Compared to the earlier Shark Teeth, this set is better than the BQQ-2 of the early Permit- and Sturgeon classes, and almost comparable to the BBQ-5 that equips the latest US subs.\n \nIt is rumoured that an advanced version of this suite equips the Sierra-class submarine, but little is known at this time.
+
+wp_buck_toe=Buck Toe=Definitely antiquated by 1980's standards, this is a searchlight-style high frequency active array, little better than WW2 active sonars.
+
+wp_shark_fin=Shark Fin=This medium frequency set equips some Soviet boats of the late 1960's, where it forms the active component of the Shark Teeth passive suite.
+
+wp_pike_jaw=Pike Jaw=This high frequency set is common among the late 1950's generation where it equips the Foxtrot and November class boats, generally in conjunction with Trout Cheek. It can therefore be assumed that Pike Jaw is likewise a derivative of German wartime designs.
+
+wp_stag_ear=Stag Ear=This is a very old high frequency set that equips the Whiskey-class diesel subs.
+
+wp_foal_tail=Foal Tail=This high frequency variable depth sonar (VDS) is a shipboard derivative of the dipping sonar mounted on the Ka-25 Hormone A anti-submarine helicopters. Commonly mounted on smaller patrol ships, the ability to search beneath the layer makes it a dangerous system to encounter in shallow waters.
+
+wp_mare_tail=Mare Tail=This large variable depth sonar (VDS) was first observed on the Moskva-class helicopter cruisers, and later on the Kiev, Kara and Krivak classes where it provides these ships the ability to scan beneath the thermal layer when applying sprint-and-drift tactics.
+
+wp_horse_tail=Horse Tail=Larger and much more capable than Mare Tail, Horse Tail is a towed low frequency variable depth sonar (VDS) which equips the Kirov and Udaloy classes where it gives these ships the ability to search beneath the layer for considerable distances.
+
+wp_shark_tail=Shark Tail=This is a passive low-frequency towed array that equips all Soviet submarines of recent construction from the Victor III onwards. While not comparable to American towed array systems, it nevertheless provides the Soviets wih an improved sonar capability which earlier generations were lacking, giving these newer boats something of a quantum leap in capabilities and the threat they provide.
+
+wp_horse_jaw=Horse Jaw=This is a follow-on to the Moose Jaw that equips the Kirov and Udaloy classes, and gives these ships tremendous capability against even silent US submarines.
+
+wp_moose_jaw=Moose Jaw=This is a very large low-frequency array first observed on the Moskva's, but which also equips the Kiev class.
+
+wp_rgb_56=RGB-56=Placeholder text for sensor.
+
+wp_rgb_64=RGB-64=Placeholder text for sensor.
+
+wp_bm_1=BM-1=Placeholder text for sensor.
+
+wp_bm_2=BM-2=Placeholder text for sensor.
+
+wp_bm_3=BM-3=Placeholder text for sensor.
+
+wp_foal_stork_tail=Foal/Stork Tail=This is the dipping sonar used by the Ka-25 and Ka-27 helicopters.
+
+
+[RADAR]
+usn_bps_12=BPS-12=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+
+usn_bps_15=BPS-15=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+
+usn_bps_14_15=BPS-14/15=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+
+usn_bps_15A=BPS-15A=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+
+wp_don_kay=Don Kay= Typical surface-search radar used by ships to detect other vessels and navigational hazards. While not optimized to do so, these sets are capable of detecting a raised periscope if the conditions are right.
+
+wp_spin_through=Spin Through=Typical surface-search radar used by ships to detect other vessels and navigational hazards. While not optimized to do so, these sets are capable of detecting a raised periscope if the conditions are right.
+
+wp_snoop_head=Snoop Head=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+
+wp_snoop_tray=Snoop Tray=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+
+wp_snoop_plate=Snoop Plate=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+
+wp_snoop_slab=Snoop Slab=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+
+wp_mushroom=Mushroom=Helicopter-mounted surface search set optimized to detect periscopes and masts.
+
+wp_wet_eye=Wet Eye=Airborne surface search set optimized to detect periscopes and masts.

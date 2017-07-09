@@ -1,0 +1,27 @@
+Text=
+Text=Kapitän,
+Text=Wir haben einen neun Sonar Kontakt, Richtung <BEARING>, Kennzeichen Sierra 1.
+Text=
+Text=XO reports:
+Text=     Unsere Tiefe: <DEPTH>
+Text=     Unsere Richtung: <HEADING>
+Text=     Unsere Geschwindigkeit: <SPEED>
+Text=
+Text=<DEPLOYMENTZONE>Ihre Befehle Sir?
+
+
+Text2=
+Text2=
+Text2=
+Text2=
+Text2=Lokale Wetterbedingungen:
+Text2=     <CONDITIONS>
+Text2=     <SURFACEDUCT> Oberflächen Duktus
+Text2=     <STRENGTH> Thermische Schicht <LAYERDEPTH>
+//Text2=     Wassertiefe beträgt <WATERDEPTH>
+
+TextNoContact=Keine Kontakte. Weiter auf Kurs.
+TextInPort=Andgedockt im Hafen.
+
+ConditionTypes=Ruhig, Leichter Wind, Leichte Brise, Schwache Brise, Moderate Brise, Frische Brise, Starke Brise, Starker Wind
+StrengthTypes=Nein, Sehr schwach, schwach, mäßig, stark, sehr stark

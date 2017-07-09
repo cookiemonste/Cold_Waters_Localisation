@@ -1,0 +1,7 @@
+Image=campaign/images/nato submarine
+MissionLocation=In der Nähe der Faeroer Inseln
+Briefing=15 MAR 1984
+Briefing=Auf einer Routine Patrouille machen sie Kontakt mit einem Wolfpak von elektrischen Diesel U-Booten, die dabei sind in westliche Gefilde auszubrechen.
+Briefing=
+Briefing=Primäres Ziel:
+Briefing=Fechte es aus mit den feindlichen U-Booten und vergewissere dich das sie nicht entkommen.

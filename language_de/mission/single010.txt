@@ -1,0 +1,10 @@
+Image=campaign/images/under ice
+MissionLocation=Irgendwo nördlich von Spitzbergen
+Briefing=5 APR 1984
+Briefing=Jage und töte ein Soviet Typhoon-Kalsse Boomer und weiche seinem high-tech Begleitschutz aus.
+Briefing=
+Briefing=Primäres Ziel:
+Briefing=Versenke das Typhoon
+Briefing=
+Briefing=Sekundäres Ziel:
+Briefing=Keine

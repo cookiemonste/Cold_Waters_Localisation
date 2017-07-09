@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=TU-142 Bear F
+AircraftDescriptiveName=Tupolev TU-142 Bear F
+History=Die Tu-142 ist eine Ableitung des Tu-95 strategischen Bombers. Während die Tu-142 scheinbar die gleiche Rolle spielt wie der Il-38 Mai, bietet die Tu-142 viel größere Reichweite und Loiter-Fähigkeit und trägt eine viel größere Nutzlast als die Mai. Ihr Hauptnachteil ist ihre unglaublich hohe Geräuschleistung, die laut genug ist, um vom US SOSUS Array verfolgt zu werden.

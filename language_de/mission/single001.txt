@@ -1,0 +1,7 @@
+Image=campaign/images/pact warship tender 1
+MissionLocation=Östlich von Island, im Europäisches Nordmeer
+Briefing=15 DEZ 1984
+Briefing=Nach mehreren Ereignislosen tagen entdeckt das Sonar einen einsamen Kontakt.
+Briefing=
+Briefing=Primäres Ziel:
+Briefing=Führe ein eins-zu-ein Duell mit einem feindlichen SSN
