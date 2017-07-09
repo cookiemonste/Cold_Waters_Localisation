@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MK37
+WeaponDescriptiveName=Mark 37 Torpedo (Mk37)
+WeaponDescription=Die Mk37 war der Standard, von US U-Booten gestartete ASW Torpedo, bis der Mk48 ihn ersetzte. Diese Waffen sind langsam genug, dass die meisten SSNs sie überholen können. So muss bei der Planung eines Angriffs mit diesen Waffen außerordentliche Sorgfalt geübt werden. Diese langsame Geschwindigkeit macht sie gleichermaßen unwirksam gegen Oberflächenschiffe und schlecht gegen irgendetwas anderes als langsame konventionelle U-Boote.

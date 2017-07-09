@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Sonobuoy
+WeaponDescriptiveName=Sonarboje
+WeaponDescription=Sowjetische aus der Luft abgeworfene Sonarboje mit passivem oder aktivem Sonar ausgestattet.

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-14
+WeaponDescriptiveName=SS-N-14 Silex ASW Rakete
+WeaponDescription=Unterschall ASW-Rakete, die auf den meisten sowjetischen großen anti U-Boot Schiffen sowie den Fregatten der Krivak Klasse ausgerüstet ist. Sie kann in die erste Konvergenzzone gestartet werden und wirft einen UGMT zielsuchende Torpedo ab. Weil sie eine größere Reichweite als die effektive Reichweite des Oberflächenschiffs hat, kann es Ziel Daten verwenden, die von jeder freundlichen See- oder Lufteinheit über datalink übertragen werden.

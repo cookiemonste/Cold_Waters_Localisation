@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MOSS
+WeaponDescriptiveName=Mark 70 Mobiler U-Boot Simulator (MOSS)
+WeaponDescription= Der MK70 ist ein passiver Köder, der versucht, den Klang eines U-Bootes zu simulieren, um feindliches Passivsonar zu locken. Er wird auf einer geraden Strecke gestartet und bleibt bei der Starttiefe, was bedeutet, dass ein U-Boot es starten und auf der gegenüberliegenden Seite der Schicht entkommen kann.

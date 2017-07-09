@@ -1,0 +1,5 @@
+[Weapon Reference]
+WeaponName=MK16
+WeaponDescriptiveName=Mark 16 Torpedo (Mk16)
+WeaponDescription=
+Diese sich geradeaus bewegende Zweitwelt Kriegs Torpedos waren bis 1972 als Anti-Schiffs Waffen im Einsatz, bis sie mit dem MK37 ASW Torpedo ausgewechselt wurden. Die Anleitung beschränkt sich auf einen Gyrowinkel und die Trefferwahrscheinlichkeit ist sehr gering.

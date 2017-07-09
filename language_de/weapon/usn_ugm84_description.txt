@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UGM-84
+WeaponDescriptiveName=Harpoon Rakete (UGM-84)
+WeaponDescription=Die Harpoon wurde auf US U-Booten und Ihren Verbündeten seit den frühen 70er Jahren eingesetzt. Obwohl es eine kleine Waffe, mit einem kleinen Gefechtskopf ist und vergleichsweise langsam, ist sie sehr effektiv gegen kleine Feinde ohne Raketenabwehr. Gegen bessere bewaffnete Ziele haben sie wahrscheinlich am besten in Salven abgefeuert, Garantie um das Ziel zu treffen.

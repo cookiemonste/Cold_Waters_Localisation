@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UGMT-1
+WeaponDescriptiveName=UGMT-1 Torpedo
+WeaponDescription=Luft Torpedo, der auf den meisten sowjetischen Hubschrauber und ASW Flugzeuge ausrüstet is. Er dient als Nutzlast für die SS-N-14 und SS-N-16 ASW Raketen. Sie sind leicht, ihre Sprengköpfe sind schwächer als Torpedos, die von Schiffen oder U-Booten benutzt werden.

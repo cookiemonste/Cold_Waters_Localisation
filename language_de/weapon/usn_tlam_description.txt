@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=TLAM
+WeaponDescriptiveName=Tomahawk Landangriff Rakete (TLAM)
+WeaponDescription=Landangriffsversion der UGM-109 Tomahawk Rakete. Sie trägt entweder einen konventionellen hochexplosiven Gefechts oder Streumunition Kopf. Das fortschrittliche Gelände Radar ermöglicht es, dass die zerstörerische Kraft mit Punktgenauigkeit geliefert wird.

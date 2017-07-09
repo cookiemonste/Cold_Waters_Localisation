@@ -1,0 +1,25 @@
+[MORTARS]
+wp_rbu6000_mortar=RBU 6000=Dies ist ein Hecken Stil Werfer, der Raketen verwendet, um tiefe Ladungen in einem voreingestellten Muster über große Bereiche zu werfen. Die Bezeichnung bezeichnet die max. Reichweite in Metern.
+wp_rbu2500_mortar=RBU 2500=Dies ist ein Hecken Stil Werfer, der Raketen verwendet, um tiefe Ladungen in einem voreingestellten Muster über große Bereiche zu werfen. Die Bezeichnung bezeichnet die max. Reichweite in Metern.
+wp_rbu1000_mortar=Dies ist ein Hecken Stil Werfer, der Raketen verwendet, um tiefe Ladungen in einem voreingestellten Muster über große Bereiche zu werfen. Die Bezeichnung bezeichnet die max. Reichweite in Metern.
+
+[GUNS]
+wp_6x3_b-38_shell=152mm/57 Guns=152mm/57 B-38
+
+wp_ak-130_shell=AK-130 Guns=130mm/70 AK-130
+
+wp_sm2_shell=130mm/58 Guns=130mm/58 SM-2-1
+
+wp_ak-100_shell=AK-100 Guns=100mm/70 AK-100
+
+wp_sm2_shell=130mm/58 Guns=130mm/58 SM-2-1
+
+wp_b-34_shell=B-34 Guns=100mm/56 B-34
+
+wp_ak-726_shell=AK-726 Guns=AK-726
+
+wp_ak-725_shell=AK-725 Guns=AK-725
+
+wp_depth_bomb=Depth Bomb=Aus der Luft abgeworfene Tiefenbombe
+
+wp_proximity_mine=Proximity Mine=Entfernungsmine

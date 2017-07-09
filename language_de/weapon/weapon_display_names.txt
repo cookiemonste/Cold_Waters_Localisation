@@ -1,0 +1,10 @@
+[Depth Charges, Mortars and Shells]
+wp_rbu6000_mortar=RBU 6000
+wp_rbu2500_mortar=RBU 2500
+wp_depth_bomb=Tiefenbombe
+wp_6x3_b-38_shell=6x3 B-38 152mm Kanonen
+wp_ak-130_shell=AK-130 130mm Kanonen
+wp_ak-100_shell=AK-100 100mm Kanonen
+wp_b-34_shell=B-34 100mm Kanonen
+wp_ak-726_shell=AK-726 76.2mm Kanonen
+wp_ak-725_shell=AK-725 57mm Kanonen

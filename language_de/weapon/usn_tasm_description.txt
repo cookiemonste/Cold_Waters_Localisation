@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=TASM
+WeaponDescriptiveName=Tomahawk Rakete (TASM)
+WeaponDescription=Dies ist die anti Schiff Version der UGM-109 Tomahawk Rakete. Im Vergleich zur Harpoon ist sie schneller und hat eine deutlich größere Angriffskraft. Allerdings ist sie ein größeres Ziel für CIWS.

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-16
+WeaponDescriptiveName=SS-N-16 ASW Rakete
+WeaponDescription=U-Boot ASW Raketen. Ähnlich wie die SS-N-14 wirft die Rakete UGMT zielsuchende Torpedos ab.

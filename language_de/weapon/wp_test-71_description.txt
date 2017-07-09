@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=TEST-71
+WeaponDescriptiveName=TEST-71 ASW Torpedo
+WeaponDescription=Dieser elektrische Torpedo verbessert den SET-65 durch die Einführung von Drahtführung und fortschrittlichere aktiv / passiv zielsuchende-Fähigkeiten. Allerdings bleibt der Bereich des Referenzsystems gleich.

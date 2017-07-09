@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=USET-80
+WeaponDescriptiveName=USET-80 Torpedo
+WeaponDescription=Dieser sowjetische Doppelfunktion Torpedo ausgestattet mit neuester Technologie bietet eine ähnliche Leistung wie der Mk48. Er hat ein aktiv / passiv zielsuchende System mit einer großen Reichweite von 3000 Yards, sodass er eine gefährliche Waffe im Kampf darstellt.
