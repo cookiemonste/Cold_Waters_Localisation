@@ -1,0 +1,35 @@
+[TRAINING_MENU 1]
+[/TRAINING_MENU 1]
+
+[TRAINING_MENU 2]
+[/TRAINING_MENU 2]
+
+[TRAINING_MENU 3]
+<b>Schiffszuweisung</b>
+Ihnen wurde für diese Mission automatisch ein Sturgeon-Klasse U-Boot zugewiesen.
+
+<LEFTCLICK> <DICTIONARY:Accept>
+[/TRAINING_MENU 3]
+
+[TRAINING_MENU 4]
+<b>Waffen Loadout</b>
+Für diese Mission werden wir Ihre Waffen Beladung modifizieren und bestimmen welche Waffen in den Röhren zum Kampf bereit sein werden.
+
+<LEFTCLICK> <DICTIONARY:VesselStatus> oder <KEY:Stores> Um die Waffenspeicher Ihres Schiffes zu sehen.
+
+<b>Loadout ändern</b>
+<LEFTCLICK> <DICTIONARY:UnloadWeapon> 4 mal, um 4 MK48 Torpedos aus deiner Beladung zu entfernen. Sie sollten jetzt 4 MK48 in Ihren Lager plus zusätzlich 4 in den Torpedo-Röhren haben. Insgesamt sind 19/23 Waffen an Bord.
+
+<LEFTCLICK> auf dem TASM-Raketen-Symbol oder dessen Name, um es auszuwählen.
+<LEFTCLICK> <DICTIONARY:LoadWeapon> 4 mal, um 4 TASM-Raketen zu deiner Beladung hinzuzufügen. Sie sollten jetzt 4 TASM in Ihren Lager haben und 0 in den Torpedo Rohren. Insgesamt sind 23/23 Waffen an Bord.
+
+<b>Belade Rohre</b>
+Derzeit gibt es 4 MK48 in den Rohren, wie durch die Icons und die (4) neben dem MK48 Symbol makriert ist.
+Tippen Sie auf <KEY: Load Tube> kontinuierlich, um durch die Waffe in Tube # 1 durchzuschalten. Stoppe wenn ein UGM-84 geladen ist.
+
+<LEFTCLICK> die Waffe in Rohr #2 (oder benutze <KEY:Next Tube>) und nutze <KEY:Load Tube> um ein UGM-84 in Rohr #2 zu laden.
+Wiederhole das für Rohr #3 und #4, aber in der These laden wir ein TASM.
+Wenn Sie fertig sind, sollten Sie 6 (2) UGM-84 und 2 (2) TASM zusammen mit 2 UGM-84 mit den jeweiligen Icons in den Rohren aufgelistet haben.
+
+Sobald sie diese Beladung haben <LEFTCLICK> <DICTIONARY:Battlestations> um die Mission zu starten.
+[/TRAINING_MENU 4]

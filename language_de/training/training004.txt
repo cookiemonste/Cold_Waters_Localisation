@@ -1,0 +1,9 @@
+Image=campaign/images/nato submarine
+MissionLocation=Trainingsübung
+Briefing=Learn how to move and manouver your submarine.
+Briefing=
+Briefing=Dinge zu üben:
+Briefing=- Anpassen derGeschwindigkeit.
+Briefing=- Mit der Ruder Kontrolle steuern.
+Briefing=- Tife mit den Rudern und Ballast Tanks anpassen
+Briefing=- Notfall Ballast ausblasen.

@@ -1,0 +1,15 @@
+[TRAINING 1]=1
+<b>U-Boot verloren</b>
+Ihr U-Boot wurde zerstört.
+Zum Glück war das nur eine Trainings-Simulation.
+
+Bei der Zerstörung ist das HUD deaktiviert.
+Benutze <KEY:Cancel or Quit> Um das Missionsmenü zu betreten und die Mission zu beenden.
+
+Im Missionsmenü kannst du:
+1) <LEFTCLICK> <DICTIONARY:AbandonShip>. Wenn dein U-Boot intakt und oberhalb der Fluchttiefe ist, Du und deine Mannschaft kann noch überleben, sonst passiert nichts.
+2) <LEFTCLICK> <DICTIONARY:Quit> zum beenden der Mission.
+
+Jede dieser Optionen führt Sie zum Abschlussbericht.
+Um den Abschlussbericht zu beenden benutze, <LEFTCLICK> <DICTIONARY:Continue> or <KEY:Continue>.
+[/TRAINING 1]

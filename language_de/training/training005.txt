@@ -1,0 +1,8 @@
+Image=campaign/images/pact naval 1
+MissionLocation=Trainingsübung
+Briefing=Lokalisieren, identifizieren und verfolgen einen unbekannten Kontakt.
+Briefing=
+Briefing=Dinge zu üben:
+Briefing=- Kontakte erkennen und klassifizieren.
+Briefing=- Zielbewegungsanalyse (TMA).
+Briefing=- Erstellen einer Feuerleitlösung.

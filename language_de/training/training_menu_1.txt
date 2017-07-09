@@ -1,0 +1,39 @@
+[TRAINING_MENU 1]
+<b>Training: Missions Liste</b>
+<b>Hilfe:</b>
+Use <KEY:Help> Um dieses Trainingstafel zu öffnen (nur während Trainingsmissionen) oder wenn dieses Trainingspanel bereits geöffnet ist, drückt <KEY: Help> die Hilfe, ein umfassendes In-Game-Handbuch zum Spielen von Cold Waters. Hilfe öffnet sich auf der Seite, die am meisten relevant ist für das, was Sie derzeit im Spiel tun.
+
+Schliesse die Hilfe mit <KEY:Help> wieder oder <LEFTCLICK> <DICTIONARY:Back> unten rechts.
+
+
+<b>Lass uns die Mission starten:</b>
+Wählen Sie eine Trainingsmission aus der Liste aus. Es empfiehlt die Missionen in der Reihenfolge zu machen.
+Die Liste kann durch Verschieben des <MOUSEWHEEL> gescrollt werden, mit der Scroll Taste oder <LEFTCLICK> und Ziehen.
+
+<LEFTCLICK> <DICTIONARY:Start> zum Starten.
+[/TRAINING_MENU 1]
+
+[TRAINING_MENU 2]
+[/TRAINING_MENU 2]
+
+[TRAINING_MENU 3]
+<b>Schiffszuweisung</b>
+Ihnen wurde für diese Mission automatisch ein Sturgeon-Klasse U-Boot zugewiesen.
+
+<LEFTCLICK> <DICTIONARY:Accept>
+[/TRAINING_MENU 3]
+
+[TRAINING_MENU 4]
+<b>Missions Besprechung</b>
+Zu Beginn einer Mission wird Ihnen dieser Bildschirm präsentiert, der den aktuellen Status Ihres Schiffes und die lokalen Bedingungen zeigt.
+
+<DICTIONARY:AttemptClosure> (Für Trainingszwecke deaktiviert)
+Im eigentlichen Kampf, kann diese Funktion verwendet werden um zu die Start Reichweite zum Ziel zu bestimmen. <LEFTCLICK> auf den Bereichswert, um ihn zu ändern.
+Allerdings ist dies nicht immer erfolgreich und Ihre Start Bereich könnte bereits unterhalb der minimalen Bereich liegen oder sie wurden bereits erkannt.
+Für Raketenangriffe lange Strecke verwenden und für Torpedoangriffe kürzere Strecken verwenden.
+
+<DICTIONARY:VesselStatus> Zeigt die Waffenbeladung, Waffenspeicher und Schadenskontrolle. Hier kannst du deinen Loadout für die Mission ändern, Wir in Trainingsmission # 4 näher besprochen.
+
+<DICTIONARY:Battlestations> Startet die Mission.
+Wenn bereit <LEFTCLICK> <DICTIONARY:Battlestations> zum starten der Mission.
+[/TRAINING_MENU 4]

@@ -1,0 +1,27 @@
+[TRAINING_MENU 1]
+[/TRAINING_MENU 1]
+
+[TRAINING_MENU 2]
+[/TRAINING_MENU 2]
+
+[TRAINING_MENU 3]
+<b>Schiffszuweisung</b>
+Ihnen wurde für diese Mission automatisch ein Sturgeon-Klasse U-Boot zugewiesen.
+
+<LEFTCLICK> <DICTIONARY:Accept>
+[/TRAINING_MENU 3]
+
+[TRAINING_MENU 4]
+<b>Missions Besprechung</b>
+Zu Beginn einer Mission wird Ihnen dieser Bildschirm präsentiert, der den aktuellen Status Ihres Schiffes und die lokalen Bedingungen zeigt.
+
+<DICTIONARY:AttemptClosure> (Für Trainingszwecke deaktiviert)
+Im eigentlichen Kampf, kann diese Funktion verwendet werden um zu die Start Reichweite zum Ziel zu bestimmen. <LEFTCLICK> auf den Bereichswert, um ihn zu ändern.
+Allerdings ist dies nicht immer erfolgreich und Ihre Start Bereich könnte bereits unterhalb der minimalen Bereich liegen oder sie wurden bereits erkannt.
+Für Raketenangriffe lange Strecke verwenden und für Torpedoangriffe kürzere Strecken verwenden.
+
+<DICTIONARY:VesselStatus> Zeigt die Waffenbeladung, Waffenspeicher und Schadenskontrolle. Hier kannst du deinen Loadout für die Mission ändern, Wir in Trainingsmission # 4 näher besprochen.
+
+<DICTIONARY:Battlestations> Starten der Mission.
+Wenn bereit <LEFTCLICK> <DICTIONARY:Battlestations> um in die Mission einzusteigen.
+[/TRAINING_MENU 4]

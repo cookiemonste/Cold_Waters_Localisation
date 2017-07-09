@@ -1,0 +1,8 @@
+Image=campaign/images/pact missile attack
+MissionLocation=Trainingsübung
+Briefing=Angriff und zerstören eines stationären Zieles mit Raketen.
+Briefing=
+Briefing=Dinge zu üben:
+Briefing=- Waffenspeicher und Torbedorohre.
+Briefing=- Nachladen der Rohre im Gefecht.
+Briefing=- Racketen abfeuern.

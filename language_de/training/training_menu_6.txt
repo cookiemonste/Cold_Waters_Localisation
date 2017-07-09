@@ -1,0 +1,17 @@
+[TRAINING_MENU 1]
+[/TRAINING_MENU 1]
+
+[TRAINING_MENU 2]
+[/TRAINING_MENU 2]
+
+[TRAINING_MENU 3]
+<b>Schiffszuweisung</b>
+Ihnen wurde für diese Mission automatisch ein Sturgeon-Klasse U-Boot zugewiesen.
+
+<LEFTCLICK> <DICTIONARY:Accept>
+[/TRAINING_MENU 3]
+
+[TRAINING_MENU 4]
+<b>Besbrechung verlassen</b>
+<LEFTCLICK> <DICTIONARY:Battlestations> um die Mission zu starten.
+[/TRAINING_MENU 4]

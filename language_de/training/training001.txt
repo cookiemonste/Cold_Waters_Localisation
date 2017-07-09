@@ -1,0 +1,11 @@
+Image=campaign/images/pact landing sunk
+MissionLocation=Trainingsübung
+Briefing=Use <KEY:Help> Zum öffnen des Training Panel oder wenn das Training Panel bereits geöffnet ist, <KEY:Help> Öffnet die Hilfe auf der Seite, die am relevantesten ist.
+Briefing=
+Briefing=Führen Sie einen Torpedo-Angriff gegen ein stationäres Ziel aus.
+Briefing=
+Briefing=Dinge zu üben:
+Briefing=- Kamera Kontrollen.
+Briefing=- Benutze das Persikop.
+Briefing=- Einführung in die Taktische Karte.
+Briefing=- Abfeuern von Torpedos.

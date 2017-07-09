@@ -1,0 +1,29 @@
+[TRAINING_MENU 1]
+[/TRAINING_MENU 1]
+
+[TRAINING_MENU 2]
+<b>Wählen Sie ein Schiff</b>
+Für Missionen mit mehreren spielbaren Klassen verfügbar, müssen Sie Ihre U-Boot-Klasse auswählen.
+Empfohlen Klasse: Los Angeles
+
+<b>Kamera Kontrollen:</b>
+Kamera Schwenken: benutze <KEY:Drag Camera> oder <KEY:Camera Left>, <KEY:Camera Right>, <KEY:Camera Up> und <KEY:Camera Down>.
+Zoomen: benutze <MOUSEWHEEL> oder <KEY:Zoom In> und <KEY:Zoom Out>.
+
+<b>Wechsle das Schiff:</b>
+Benutze die <KEY:Rudder Left> und <KEY:Rudder Right> Tasten um andere Schiffe zu wählen.
+
+<LEFTCLICK> <DICTIONARY:Accept> Für die Klasse ihrer Wahl.
+[/TRAINING_MENU 2]
+
+[TRAINING_MENU 3]
+<b>Schiffszuweisung</b>
+Sie wurden einem U-Boot der gewählten Klasse zugewiesen.
+
+<LEFTCLICK> <DICTIONARY:Accept>
+[/TRAINING_MENU 3]
+
+[TRAINING_MENU 4]
+<b>Besprechung verlassen</b>
+<LEFTCLICK> <DICTIONARY:Battlestations> um die Mission zu beginnen.
+[/TRAINING_MENU 4]
