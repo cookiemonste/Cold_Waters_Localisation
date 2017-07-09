@@ -1,9 +1,9 @@
 Image=campaign/images/nato submarine
 MissionLocation=Trainingsübung
-Briefing=Learn how to move and manouver your submarine.
+Briefing=Lerne das U-Boot zu manöverieren.
 Briefing=
-Briefing=Dinge zu üben:
+Briefing=Dinge zum üben:
 Briefing=- Anpassen derGeschwindigkeit.
 Briefing=- Mit der Ruder Kontrolle steuern.
-Briefing=- Tife mit den Rudern und Ballast Tanks anpassen
+Briefing=- Tiefe mit den Rudern und Ballast Tanks anpassen
 Briefing=- Notfall Ballast ausblasen.
