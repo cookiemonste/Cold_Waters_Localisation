@@ -1,0 +1,358 @@
+[MAIN MENU]
+Training=Training
+SingleMission=Einzelspieler Mission
+Campaign=Kampaigne
+UnitReference=Einheiten Datenbank
+Options=Optionen
+Credits=Credits
+Quit=Beenden
+
+[GENERAL]
+Back=Zurück
+Start=Start
+Accept=Ok
+Random=Zufällig
+Help=Hilfe
+Load=Laden
+Save=Speichern
+Delete=Löschen
+No=NEIN
+Yes=JA
+Labels=Bezeichnung
+Menu=Menü
+Hours=Stunden
+
+[BRIEFINGS]
+InTheVicinityOf=In der Nähe von
+DockedAtPort=Angedockt an <PLAYERPORT>
+StoresStatus=VOLL BESTÜCKT
+StoresStatusNeg=RELOADS AVAILABLE
+SystemsStatus=ALLE SYSTEME FUNKTIONSTÜCHTIG
+SystemsStatusNeg=REPARATUREN BENÖTIGT
+LeaveCombatNeg=KEIN
+LeaveCombatVessels=SCHIFFE IN DER NÄHE
+LeaveCombatWeapons=WAFFEN IN NÄHE
+LeaveCombatAircraft=FLUGZEUG NÄHE
+LeaveCombatFlooding=FLUTUNG
+NearDeploymentZone=Missions Einsatz Zzone ist in der Nähe.
+
+//MissionWeaponsNeg=Benötige <NUMBER> <WEAPON> an Bord für die aktuelle Mission.
+//CommandoNeg=Benötigt ein SEAL Team an Bord für die aktuelle Mission.
+RepairTime=Reparatur Zeit
+Minutes=Min
+Hours=Stunden
+
+[HEADINGS]
+TrainingMissionHeader=TRAINING
+SingleMissionHeader=EINZELSPIELER MISSION
+UnitReferenceHeader=EINHEITEN DATENBANK
+SelectVesselHeader=SELECT VESSEL
+BriefingHeader=BESPRECHUNG
+OrdersHeader=BEFEHLE
+NewCampaignHeader=NEUE KAMPAIGNE
+LoadCampaignHeader=LADE KAMPAIGNE
+OptionsHeader=OPTIONEN
+IncomingMessageHeader=EINKOMMENDE NACHRICHT
+
+[COMMANDS]
+Battlestations=Alle hände an die Gefechtstationen
+AttemptClosure=Nahe bei:
+ContinueCourse=Weiter auf Kurs
+Loadout=Waffen Loadout
+DamageControl=Schadenskontrolle
+VesselStatus=XO: Status Report
+RearmRepair=Aufrüsten und Reparieren
+ReviewOrders=Überprüfe Befehle
+AbandonShip=Schiff verlassen
+LeavePort=Anker lichten, Leinen los!
+HoursInPort=Stunden im Hafen:
+ExitMission=Verlasse das Gefecht
+QuitMission=Beende die Mission
+
+[HUD]
+ConditionsTab=BEDINGUNGEN
+SignatureTab=SIGNATUREN
+StoresTab=VORRAT
+DamageControlTab=SCHADENS KONTROLLE
+Course=CSE
+Speed=SPD
+Depth=DEP
+Rudder=RUD
+Planes=PLN
+Ballast=BAL
+Bearing=BRG
+Knot=KT
+Feet=FT
+Metre=M
+Range=RNG
+KiloYard=KYD
+Kilometer=KM
+Solution=SOL
+Percentage=%
+WeaponData=WPN DATA
+RangeToEnable=RTE
+TimeToRun=TTR
+AmbientNoise=UMGEBUNGSGERÄSUCH
+Decibels=dB
+SurfaceDuct=DUCT
+Layer=LAYER
+Floor=FLOOR AT
+Contact=KONTAKT
+Offline=OFFLINE
+SignalStrength=SIG STR
+OwnShip=OWNSHIP
+SensorComparison=SNS COMP
+Profile=PROFILE:
+DepthGauge=0\n100\n200\n300\n400\n500\n600\n700\n800\n900\n1000
+LoadWeapon=LADEN
+UnloadWeapon=ENTLADEN
+LoadCommando=LOAD SPEC OPS
+UnloadCommando=UNLOAD SPEC OPS
+NoisemakerStores=Noisemaker
+NoContact=KEIN KONTAKT
+VerticalLaunchSystem=Vertical Launching System:
+VerticalLaunchSystemAbb=VLS
+HullStatus=Hull:
+
+[ACTION REPORT]
+ActionReportSunk=VERSENKT
+ActionReportDamaged=SCHADEN
+ActionReportEscaped=ESCAPED
+ActionReportUndetected=UNENTDECKT
+ActionReportNone=KEIN
+ActionReportLost=VERLOREN
+ActionReportLostAllHands=VERLOREN MIT ALLEN HÄNDEN
+
+[CAMPAIGN]
+SaveFileName=Speichere Datei Name:
+CommanderName=Kommandantenname:
+DeleteSaveFile=Diesen Speicherstand löschen?: <FILENAME>?
+SaveExists=Speicherstand existiert bereits. überschreiben?
+Statistics=Summary
+OpenBriefing=Brief
+
+[UNIT REFERENCE]
+ReferenceDimensions=Dimensionen
+ReferenceTons=tonnen
+ReferenceMetre=m
+ReferenceKnot=kn
+ReferenceFeet=ft
+ReferenceCrew=Crew
+ReferenceDefensive=Defensive Waffen
+Reference30mmCIWS=30mm CIWS Kanonen
+ReferenceNone=None
+ReferenceOffensive=Offensive Waffen
+ReferenceMissiles=Racketen
+ReferenceDecoys=Decoys
+ReferenceTorpedoes=Torpedos
+ReferenceSensors=Sensoren
+ReferenceNavRADAR=Navigations Radar only
+ReferenceSearchRADAR=such Radar, ESM
+ReferenceMastMounted=mast-mounted
+ReferenceSonarBoth=active and passive sonar
+ReferenceSonarActive=active sonar
+ReferenceSonarPassive=passive sonar
+ReferenceHullMounted=hull-mounted
+ReferenceTowedArray=towed array
+ReferenceDipping=dipping
+ReferenceSonobuoy=sonobuoy
+ReferenceAircraft=Aircraft
+ReferenceNotes=Notes
+ReferenceKilogram=kg
+ReferenceYard=yd
+ReferenceRange=Range
+ReferenceMaxSpeed=Max. Speed
+ReferenceSeekerRange=Seeker Range
+ReferenceAt=at
+FrequencyVeryLow=very low
+FrequencyLow=low
+FrequencyMedium=medium
+FrequencyHigh=high
+Frequency=frequency
+Frequencies=frequencies
+
+[Sea States]
+Calm=Ruhig
+LightAir=Light air
+LightBreeze=Light breeze
+GentleBreeze=Gentle breeze
+ModerateBreeze=Moderate breeze
+FreshBreeze=Fresh breeze
+StrongBreeze=Strong breeze
+HighWind=High wind
+
+[Weather]
+Clear=Klar
+Scattered=verstreut
+Broken=Broken
+Overcast=Bedeckt
+Rain=Regen
+Storm=Sturm
+Snow=Schnee
+SnowStorm=Schneesturm
+
+[Strength Types]
+ZeroStrength=Kein
+VeryWeak=Sehr schwach
+Weak=Schwach
+Moderate=Moderat
+Strong=Stark
+VeryStrong=Sehr Stark
+
+[ERROR]
+FatalError=FATALER FEHLER:
+
+[OPTIONS]
+GameSettings=Spiel
+Controls=Tastaturbelegung
+VideoSettings=Video
+AudioSettings=Audio
+DefaultControls=Standardeinstellungen wiederherstellen
+DefaultCommanderName=Standart Kommandantenname:
+Difficulty=Schwierigkeitsgrad
+Easy=Einfach
+Normal=Normal
+Hard=Realistisch
+Elite=Elite
+WorldScale=Distanz Maßstab
+Scale1=1:1
+Scale2=1:2
+Scale3=1:3
+Scale4=1:4
+SpeedMultiplier=Geschwindigkeit Multiplikator
+HideUnclassified=Vertecke Low SOL. Kontakte in 3D
+
+HUDSize=HUD grösse
+AutoSave=Automatisch Speichern
+DisableIronman=Deaktiviere Ironman
+PlayerMarker=Spieler Markierung
+NonMetricUnits=Non-Metric Units
+EventCamera=Event Kamera
+InvertMouse=Invertiere Maus
+FullScreen=Vollbildschirm
+Resolution=Auflösung
+Shadows=Schatten
+VSync=V-Sync
+DetailedOcean=Detaillierter Ozean
+Terrain=Gelännde
+Trees=Bäume
+UnderwaterParticles=Unterwasser Partikel
+AntiAliasing=Anti-Aliasing
+Off=Aus
+2x=2x
+4x=4x
+8x=8x
+OceanQuality=Ozean Qualität
+High=Hoch
+Medium=Mittel
+Low=Tief
+ColorFilter=Farb Filter
+AmbientOcclusion=Ambient Occlusion
+Bloom=Bloom
+WorldObjects=Display World Objects
+MusicInCombat=Musik im Gefecht
+Volume=Lautstärke
+Music=Musik
+CameraSensitivity=Kamera empfindlichkeit
+
+[HELP]
+HelpGeneral=Allgemein
+HelpReference=Referenz
+HelpWeapons=Waffen
+HelpNavigation=Navigation
+HelpMap=Karte
+HelpSensors=Sensoren
+HelpTactics=Taktik
+HelpDamage=Schaden
+HelpCampaign=Kampaigne
+LeftMouse=LINKS KLICK
+RightMouse=RECHTS KLICK
+MiddleMouse=MITTLERE MAUSTASTE
+MouseWheel=MAUS RAD
+ShiftKey=Shift
+ControlKey=Control
+AltKey=Alt
+
+
+[KEYBIND DISPLAY NAMES: COMMAND=OPTIONS DISPLAYNAME]
+Help=Hilfe
+
+Rudder Left=Ruder Links
+Rudder Right=Ruder Rechts
+Planes Up=Tragflächen Auf
+Planes Down=Tragflächen Ab
+Ballast Up=Ballast Auf
+Ballast Down=Ballast Ab
+Increase Power=Leistung Erhöhen
+Decrease Power=DLeistung Senken
+
+Level Submarine=Straight & Level
+Blow Ballast=Ballast ausblasen
+Sonar Mode=Aktivsonar
+Silent Running=Geräuschlos
+Noisemaker=Geräuschmacher
+
+ESM Mast=ESM Masten
+RADAR Mast=Radar Masten
+Periscope=Periskop
+Periscope View=Periskop Ansicht
+Night Vision=Nachtsicht
+Mark Target=Ziel Markieren
+
+Tactical Map=Taktische Karte
+Centre Map=Karte zentrieren
+Auto Centre Map=Karte automatisch zentrieren
+
+Conditions=Konditionen
+Signature=Signaturen
+Damage Report=Schadensbericht
+Context Menu Previous=Context Menu Previous
+Context Menu Next=Context Menu Next
+Context Menu Set=Context Menu Set
+Next Contact=Nächster Kontakt
+
+Next Tube=Next Tube
+Load Tube=Load Tube
+Stores=Stores
+Fire Tube=Fire Tube
+Set Waypoint=Setze Wegpunkt
+Edit Waypoint=Editiere Wegpunkt
+
+Weapon Homing=Weapon Sensor
+Weapon Attack=Weapon Search
+Weapon Depth=Weapon Depth
+Activate Torpedo=Activate Torpedo
+Cut Wire=Cut Wire
+Steer Torpedo Left=Steer Torpedo Left
+Steer Torpedo Right=Steer Torpedo Right
+Steer Torpedo Shallow=Steer Torpedo Shallow
+Steer Torpedo Deep=Steer Torpedo Deep
+
+Time Compression=Zeitkompression
+Hide HUD=Verberge HUD
+Event Camera=Event Kamera An/Aus
+
+Zoom In=Hereinzoomen
+Zoom Out=Herauszoomen
+
+Camera Left=Kamera Links
+Camera Right=Kamera Rechts
+Camera Up=Kamera Auf
+Camera Down=Kamera Ab
+Camera To Player=Kamera zum Spieler
+Camera To Selected Contact=Kamera zum gewählten Kontakt
+Camera To Weapon=Kamera zur Waffe
+Camera To Aircraft=Kamera zum Flugzeug
+Camera To Scenery=Kamera zur Scenerie
+Drag Camera=Ziehe Kamera
+Still Camera=Stop Kamera
+
+Patrol Speed=Patrol Geschwindigkeit
+Flank Speed=Flank Geschwindigkeit
+Briefing=Besprechung
+
+Museum Next=Museum Vor
+Museum Previous=Museum Zürück
+
+Continue=Continue
+Cancel or Quit=Abbrechen oder Beenden

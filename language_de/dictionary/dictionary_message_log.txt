@@ -1,0 +1,159 @@
+[HELM]
+BlowBallast=Blowing Emergency Ballast
+Power0=Back emergency, maneuvering aye
+Power1=All stop, maneuvering aye
+Power2=Ahead 1/3, maneuvering aye
+Power3=Ahead 2/3, maneuvering aye
+Power4=Ahead standard, maneuvering aye
+Power5=Ahead full, maneuvering aye
+Power6=Ahead flank, maneuvering aye
+PassingDepth=Passing <DEPTH> <FEET>
+TooShallowUnderKeel=Conn, less than <DEPTH> <FEET> below the keel
+IceHazard=Conn, navigation sonar reports ice ahead
+MineHazard=Conn, navigation sonar reports minefield ahead
+KnuckleFormed=Conn, knuckle formed
+BallastRecharged=Conn, ballast compressed air is fully recharged
+BallastRecharging=Conn, still equilibrating tanks after emergency blow
+
+[SONAR]
+NewSonarContact=Conn, sonar: new contact bearing <BRG>, designate <CONTACT>
+LostSonarContact=Conn, sonar: lost contact <CONTACT> last bearing <BRG>, contact faded
+ReEstablishSonarContact=Conn, sonar: contact <CONTACT> bearing <BRG>, contact re-established
+ContactSinking=Conn, sonar: lost contact <CONTACT> last bearing <BRG>, contact breaking up
+ContactIdentified=Conn, sonar: contact <CONTACT> is identified as <CONTACTTYPE>
+ContactClassified=Conn, sonar: contact <CONTACT> is classified as <CONTACTCLASSIFIED>
+TransientKnown=Conn, sonar: launch transient from <CONTACT>
+TransientUnknown=Conn, sonar: launch transient bearing <BRG>
+SonobuoyPing=Conn, sonar: sonobuy ping, bearing <BRG>
+ActivePing=Conn, sonar: active sonar, bearing <BRG>
+NoisemakerDropped=Conn, sonar: noisemaker, bearing <BRG>
+PlayerCavitating=Conn, sonar: we're cavitating
+EnemyCavitating=Conn, sonar: contact <CONTACT> is cavitating
+SwitchToActive=Conn, sonar: switching to active sonar
+SwitchToPassive=Conn, sonar: switching to passive sonar
+
+[WLR-9]
+Torpedo in the water! Torpedo in the water! Bearing <BRG>
+Torpedo is active! Bearing <BRG>
+Torpedo is at <RANGE> yards and closing
+
+[TORPEDO ROOM]
+LoadWeapon=Conn, torpedo room: load <WEAPON> tube <TUBE>. Torpedo room aye
+FireTube=Conn, torpedo room: firing <WEAPON> tube <TUBE>, weapon is away
+TubeDestroyed=Conn, torpedo room: tube <TUBE> inoperable
+TubeJamDestroyed=Conn, torpedo room: tube <TUBE> jammed on launch
+WeaponLoaded=Conn, torpedo room: tube <TUBE> loaded tube <TUBE>. Tube ready
+TooDeep=Conn, torpedo room: cannot fire <WEAPON> below <DEPTH> <FEET>
+VLSTooFast=Conn, torpedo room: cannot fire <VLS> weapon above <SPEED> <KNOT>
+VLSTooDeep=Conn, torpedo room: cannot <VLS> weapon below <DEPTH> <FEET>
+//CannotLoadWireInTube=Conn, torpedo room: cannot reload <TUBE>, active wire in <TUBE>
+NoReloadsAvailable=No reloads available
+NoVLSReloadsAvailable=No weapons remain in <VLS>
+BelowMinRange=Conn, torpedo room: cannot fire <WEAPON> below <RANGE> <KILOYARD>
+
+[FIRE CONTROL]
+WeaponAcquire=Conn, fire control, weapon acquire!
+WeaponReattack=Conn, fire control, weapon reattack on
+WireBreak=Conn, fire control, wire break, weapon <WEAPON>
+WaypointSet=BEARING: <BRG>   RANGE: <RANGE> <KILOYARD>
+WaypointInfo=BEARING: <BRG>   RANGE: <RANGE> <KILOYARD>
+NotReady=Conn, fire control, <TUBE> not ready to fire
+
+[XO]
+InDeploymentZone=Entered Spec Ops deployment zone. Come to a stop to deploy
+ToDeepToDeploy=Spec Ops cannot be deployed below 100 <FEET>
+RunSilentOn=Rig ship for ultra quiet
+RunSilentOff=Releasing ship from ultra quiet
+CompartmentStatus=<CONDITION> in the <COMPARTMENT>! Damage control parties, lay to the <COMPARTMENT>!
+MasterContact=Contact <ORIGINAL> upgraded to <CONTACT>
+CommandoDeployed=Spec Ops team is away
+
+NewVisualContact=New visual contact bearing <BRG>, designate <CONTACT>
+NewRADARContact=New RADAR contact bearing <BRG>, designate <CONTACT>
+NewESMContact=New ESM contact bearing <BRG>, designate <CONTACT>
+LostVisualContact=Contact <CONTACT> visual contact lost, bearing <BRG>
+LostRADARContact=Contact <CONTACT> RADAR contact lost, bearing <BRG>
+LostESMContact=Contact <CONTACT> ESM contact lost, bearing <BRG>
+ReEstablishVisualContact=Contact <CONTACT>, bearing <BRG>, contact re-established
+ReEstablishRADARContact=Contact <CONTACT>, bearing <BRG>, contact re-established
+ReEstablishESMContact=Contact <CONTACT>, bearing <BRG>, contact re-established
+
+SubsystemDamaged=Conn, <SUBSYSTEM> damaged, time to repair <TIMETOREPAIR> minutes
+SubsystemDestroyed=Conn, <SUBSYSTEM> offline, requires repair at port
+SubsystemRepaired=Conn, <SUBSYSTEM> repaired
+CannotUseMasts=Cannot raise masts under <THRESHOLD> <FEET>
+RaiseMast0=Up scope
+LowerMast0=Down scope
+StowMast0=Conn, the periscope is stowed and rigged for dive
+
+RaiseMast1=Raise the ESM mast
+LowerMast1=Lower the ESM mast
+StowMast1=Conn, radio, the ESM mast is stowed and rigged for dive
+
+RaiseMast2=Raise the RADAR mast
+LowerMast2=Lower the RADAR mast
+StowMast2=Conn, radio, the RADAR mast is stowed and rigged for dive
+
+[AUDIO]
+RaiseMast1=audio/messagelog/mast
+LowerMast1=audio/messagelog/mast
+RaiseMast2=audio/messagelog/mast
+LowerMast2=audio/messagelog/mast
+RaiseMast0=audio/messagelog/mast
+LowerMast0=audio/messagelog/mast
+BlowBallast=audio/messagelog/blow ballast
+BallastRecharged=audio/messagelog/ballast recharged
+CommandoDeployed=audio/messagelog/ballast recharged
+
+SubsystemDamaged=audio/messagelog/Alarm SUB Alt
+SubsystemDestroyed=audio/messagelog/Alarm SUB Alt
+TubeJamDestroyed=audio/messagelog/Alarm SUB Alt
+
+SubsystemRepaired=audio/messagelog/OnOff 02
+
+TransientKnown=audio/messagelog/transient
+TransientUnknown=audio/messagelog/transient
+
+Power6=audio/messagelog/max power
+
+TooShallowUnderKeel=audio/messagelog/Alarm 04
+IceHazard=audio/messagelog/Alarm 04
+MineHazard=audio/messagelog/Alarm 04
+
+NewContact=audio/messagelog/Alarm 01
+ReEstablishSonarContact=audio/messagelog/Alarm 01
+NewVisualContact=audio/messagelog/Alarm 01
+NewRADARContact=audio/messagelog/Alarm 01
+NewESMContact=audio/messagelog/Alarm 01
+ReEstablishVisualContact=audio/messagelog/Alarm 01
+ReEstablishRADARContact=audio/messagelog/Alarm 01
+ReEstablishESMContact=audio/messagelog/Alarm 01
+
+LostSonarContact=audio/messagelog/Errors 03
+BaffledContact=audio/messagelog/Errors 03
+LostVisualContact=audio/messagelog/Errors 03
+LostRADARContact=audio/messagelog/Errors 03
+LostESMContact=audio/messagelog/Errors 03
+
+SwitchToActive=audio/messagelog/OnOff 05
+SwitchToPassive=audio/messagelog/OnOff 05
+WaypointSet=audio/messagelog/OnOff 05
+RunSilentOn=audio/messagelog/OnOff 05
+RunSilentOff=audio/messagelog/OnOff 05
+
+TooDeep=audio/messagelog/minor error
+CannotLoadWireInTube=audio/messagelog/minor error
+NoReloadsAvailable=audio/messagelog/minor error
+WireBreak=audio/messagelog/minor error
+NotReady=audio/messagelog/minor error
+ToDeepToDeploy=audio/messagelog/minor error
+CannotUseMasts=audio/messagelog/minor error
+PlayerCavitating=audio/messagelog/minor error
+BelowMinRange=audio/messagelog/minor error
+VLSTooFast=audio/messagelog/minor error
+VLSTooDeep=audio/messagelog/minor error
+NoReloadsAvailable=audio/messagelog/minor error
+NoVLSReloadsAvailable=audio/messagelog/minor error
+BallastRecharging=audio/messagelog/minor error
+
+CompartmentStatus=audio/messagelog/error
