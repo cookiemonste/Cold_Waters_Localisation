@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Skipjack
 Description=Skipjack-class Nuclear Attack Submarine
-History=In service since 1959, the Skipjacks were the first attack submarines to feature the revolutionary teardrop hull and single-hull construction with a single shaft. Though they have been refitted with quiter propellers and towed arrays, these boats are designed for high speed and lack the silencing and advanced sonars introduced in later classes. One member of this class, the USS Scorpion, sank with all hands near the Azores in 1968.
+History=Im Dienst seit 1959, waren die Skipjacks die ersten Jagd-U-Boote die mit dem revolutionären Tropfenförmigen Rumpf, der Einhüllenbauweise sowie dem Antrieb durch eine einzelne Schraubenwelle konstruiert wurden. Obwohl sie mit leiseren Propellern und Schleppsonaren nachgerüstet wurden, sind diese auf hohe Geschwindigkeiten ausgelegt und kommen ohne weiterentwickelte Sensoren und Geräuschdämmung aus wie sie auf späteren Klassen eingeführt wurden. Ein Boot der Klasse, die USS Scorpion, sank mit der gesamten Besatzung vor den Azoren im Jahre 1968.
 
 [Player Ship Instances]
 PlayerClassNames=Skipjack,Scamp,Sculpin,Shark,Snook
