@@ -1,14 +1,14 @@
 [Subsystem Display Names]
 Bug Sonar
-Schleppkörper
+Schleppsonar
 Periskop
 ESM Masten
 Radar Masten
-Rohre
+Torpedorohre
 Feuerleitstelle
 Pumpen
 Antrieb
 Ruder
-Tragflächen
+Tiefenruder
 Ballast
 Reaktor
