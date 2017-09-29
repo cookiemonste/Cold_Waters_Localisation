@@ -1,4 +1,4 @@
 [Unit Reference]
 AircraftName=IL-38 May
 AircraftDescriptiveName=Ilyushin IL-38 May
-History=Am meisten treffend beschrieben als der russische Zeitgenosse der US Lockheed P-3, ist die Il-38 ein Mittelklasse-Antiuboot Flugzeug, abgeleitet von der Il-18 Turboprop. Das Flugzeug ist in der Lage, riesige Barrieren von Sonarbojen zu legen, um dann preschend den Angriff mit einer Auswahl von Wasserbomben und Zielsuchenden Torpedos nach Hause zu bringen.
+History=Meistens als ds russische Gegenstück der amerikanischen Lockgheed P3, ist die IL-38 ein U-Boot-Jagdflugzeugg mit mittlerer Reichweite, welches von der Turbopropmaschine IL-18 abgeleitet wurde. Die Flugzeuge sind in der lage riesige Barieren aus Sonarbojen zu legen und dann die Initiative mit einem Arsenal von Wasserbomben und Zielsuchenden Torpedos zu übernehmen.
