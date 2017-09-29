@@ -1,4 +1,4 @@
 [Unit Reference]
 ShipClass=Kazbek
-Description=Kazbek-class fleet oiler
-History=Some 50 of these ships were built as commercial tankers during the 1950's, some being assigned to the Navy since 1960. The class bears a strong resemblance to the wartime US T-2 tankers, but refitted for underway replenishment with a large two-legged mast and smaller cranes for replenishment of dry stores, while refuelling is limited to a single ship using the inefficient stern refuelling method.
+Description=Flottentanker der Kazbek-Klasse
+History=50 dieser Schiffe, wurden als gewerbliche Tanker wärend der 1950er gebaut. Einige wurden in den 1960ern in die Marine eingegliedert. Diese Schiffsklasse hat eine starke ähnlichkeit mit den aus dem 2. Weltkrieg stammenden amerikanischen T-2 Tankern, wurden aber mit Möglichkeiten zum versogen von Schiffen auf See nachgerüstet. Mit einem großen Zweibeinmast und kleineren Kränen zur übergabe von Trockengütern, ist die Treibstoffversorgung von nur einem Schiff pro Tanker über das Heck möglich.
