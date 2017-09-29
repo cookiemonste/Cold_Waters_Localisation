@@ -1,4 +1,9 @@
 [Unit Reference]
 ShipClass=Andizhan M.
-Description=Modified Andizhan-class military transport
+Description=Modified Andizhan-class military transport/Modifizierter Andizhan Transporter
 History=This class of five ships started as Andizhan/Kovel-class dry cargo ships for the Soviet merchant marine, but were taken into naval service and converted into missile replenishment ships. The original A-frame masts have been replaced by a single heavy-lift crane forward and a pole mast with two smaller 5-ton cranes aft. Their forward holds can carry 10 SS-N-9 missiles and 20 SA-N-1 or SA-N-3 missiles. Cargo capacity is 3,950 tons.
+
+Diese 5 Einheiten umfassende Klasse wurde ürsprünglich als Andizhan/Kovel-Klasse für die sowjetische Handelsmarine gebaut .
+Als sie zum Kriegsdienst eingezogen wurden, wurden sie in Raketen Versorgunsschiffe umgebaut. Der originale Zweibein-Mast wurde mit einem einzelen Schwerlast Kran am Bug, sowie einem einzelnen Mast der zwei 5 Tonnen Kräne trägt auf dem Achterdeck ersetzt.
+Der Laderaum im Vorschiff fasst 10 SS-N-9 Raketen und/oder 20 SA-N-1/SA-N-3 Raketen.
+Die Ladekapazität beträgt 3.
