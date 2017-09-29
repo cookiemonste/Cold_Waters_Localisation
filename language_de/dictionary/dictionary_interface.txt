@@ -1,4 +1,4 @@
-[MAIN MENU]
+﻿[MAIN MENU]
 Training=Training
 SingleMission=Einzelspielermission
 Campaign=Kampagne
@@ -44,6 +44,13 @@ NearDeploymentZone=Missionseinsatzzone ist nahe.
 RepairTime=Reparaturzeit
 Minutes=Min
 Hours=Stunden
+
+[OTHER]
+Posthumously=posthumously
+NavyPrefixUSS=USS
+NavyPrefixWP=WP
+SUBMARINE=submarine
+WARSHIP=warship
 
 [HEADINGS]
 TrainingMissionHeader=TRAINING
@@ -116,6 +123,33 @@ NoContact=KEIN KONTAKT
 VerticalLaunchSystem=Senkrechtstartanlage für Flugkörper:
 VerticalLaunchSystemAbb=VLS
 HullStatus=Hülle:
+Left=left
+Right=right
+TorpedoRoom=torpedo room
+ControlRoom=control room
+ReactorSpace=reactor space
+EngineRoom=engine room
+MachinerySpace=machinery space
+
+SET SPEED=SET SPEED
+HELM ORDERS=HELM ORDERS
+PLOT CSE=PLOT CSE
+SET DEPTH=SET DEPTH
+DIVE ORDERS=DIVE ORDERS
+E. BLOW=E. BLOW
+MASTS=MASTS
+ACTIVE=ACTIVE
+DECOY=DECOY
+ESM=ESM
+DETECTION THRESHOLD=DETECTION THRESHOLD
+LLTV=LLTV
+MARK=MARK
+WIRE CONTROL=WIRE CONTROL
+GUIDANCE=GUIDANCE
+MANUAL CTRL=MANUAL CTRL
+LOAD WEAPON=LOAD WEAPON
+LOAD SPEC OPS=LOAD SPEC OPS
+WIRES=WIRES
 
 [ACTION REPORT]
 ActionReportSunk=VERSENKT
@@ -125,6 +159,10 @@ ActionReportUndetected=UNENTDECKT
 ActionReportNone=KEIN
 ActionReportLost=VERLOREN
 ActionReportLostAllHands=VERLOREN MIT GESAMTER BESATZUNG
+ActionReportHowSunk=SUNK BY:
+ActionReportImplosion=IMPLOSION
+ActionReportCollision=COLLISION
+ActionReportScuttled=SCUTTLED
 
 [CAMPAIGN]
 SaveFileName=Speichere Dateinamen:
@@ -185,6 +223,12 @@ ReferenceSemiNoisy=Halbwegs Laut
 ReferenceNoisy=Laut
 ReferenceVeryNoisy=Sehr Laut
 FrequencyAbbreviated=F
+FrequencyAbbreviatedVL=VL
+FrequencyAbbreviatedL=L
+FrequencyAbbreviatedM=M
+FrequencyAbbreviatedH=H
+ReferenceTestDepth=Test Depth:
+ReferenceWires=Number of wires:
 
 [Sea States]
 Calm=Ruhig
@@ -234,8 +278,9 @@ Scale1=1:1
 Scale2=1:2
 Scale3=1:3
 Scale4=1:4
-SpeedMultiplier=Geschwindigkeitsmultiplikator
+SpeedMultiplier=Zeitkompression
 HideUnclassified=Verstecke schwache SOL. Kontakte in 3D
+Tooltips=Tooltips
 
 HUDSize=HUD Größe
 AutoSave=Automatisch Speichern
@@ -268,6 +313,7 @@ WorldObjects=Display World Objects
 MusicInCombat=Musik im Gefecht
 Volume=Lautstärke
 Music=Musik
+CrewVoice=Crew Stimmen
 CameraSensitivity=Kameraempfindlichkeit
 Apply=Übernehmen
 
@@ -294,7 +340,8 @@ AltKey=Alt
 Help=Hilfe
 
 Rudder Left=Ruder Links
-Rudder Right=Ruder Rechts
+Rudder Right=Ruder Rechts.
+Set Course=Setze Kurs
 Planes Up=Tiefenruder Auf
 Planes Down=Tiefenruder Ab
 Ballast Up=Ballast Auf
@@ -303,7 +350,9 @@ Increase Power=Leistung Erhöhen
 Decrease Power=Leistung Senken
 
 Level Submarine=Gerade & Gleichbleibend
+Periscope Depth=Periscope Depth
 Blow Ballast=Ballast ausblasen
+Emergency Deep=Emergency Deep
 Sonar Mode=Aktivsonar
 Silent Running=Schleichfahrt
 Noisemaker=Lärminstrument
@@ -326,6 +375,11 @@ Context Menu Previous=Kontextmenü vorherig
 Context Menu Next=Kontextmenü Nächstes
 Context Menu Set=Kontextmenü Festgelegt
 Next Contact=Nächster Kontakt
+Recognition Manual=Recognition Manual
+Helm Controls=Helm Controls
+Dive Controls=Dive Controls
+Sensor Controls=Sensor Controls
+Expand Log=Expand Log
 
 Next Tube=Nächstes Rohr
 Load Tube=Lade Rohr
