@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Alligator
-Description=Alligator-class landing ship
-DefensiveWeapons=57mm AA Guns\nShoulder-launched SA-7 SAM
-OffensiveWeapons=122mm artillery rocket launcher
-Sensors=Navigation radar only
-History=14 of these ships were completed between 1966 and 1975. Each ship can carry 20 tanks or 40 armored personel carriers or 300-425 troops or 1000 tons of general cargo. They are built on traditional LST lines with a continuous tank deck served by aft and bow ramps for roll-on, roll-off operations and a shallow draft that permits beaching in order to disembark troops.
+Description=Docklandungsschiff der Alligator-Klasse
+DefensiveWeapons=57mm FLa-Waffe\nSchultergestützte SA-7 SAM
+OffensiveWeapons=122mm Raketenartillerie
+Sensors=nur Navigationsradar
+History=Zwischen 1966 und 75 wurden die Schiffe dieser 14 Einheiten umfassenden Klasse auf Kiel gelegt. Jedes Schiff kann 20 Kampfpanzer, 40 Schützenpanzer, 300-425 Mann oder 1000 Tonnen Fracht tragen. Sie wurden nach traditionellen Docklandungsschiffmerkmalen kunstruiert, welche einen geringen Tiefgang sowie, ein durchgehendes Fahrzeugdeck mit Bug- und Heckrampen besitzen auf dem die Fahrzeuge nach dem RoRo Prinzip entladen werden können. Aufgrund des geringen Tiefgangs können diese Schiffe sich an Stränden auf Grund setzen um Truppen und Kriegsmaterial zügig zu entladen.
