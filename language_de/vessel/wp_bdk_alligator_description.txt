@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Alligator
 Description=Docklandungsschiff der Alligator-Klasse
-DefensiveWeapons=57mm FLa-Waffe\nSchultergestützte SA-7 SAM
-OffensiveWeapons=122mm Raketenartillerie
+DefensiveWeapons=57mm FLa-Waffen\nSchultergestützte SA-7 SAM
+OffensiveWeapons=122mm Raketwerfer
 Sensors=nur Navigationsradar
 History=Zwischen 1966 und 75 wurden die Schiffe dieser 14 Einheiten umfassenden Klasse auf Kiel gelegt. Jedes Schiff kann 20 Kampfpanzer, 40 Schützenpanzer, 300-425 Mann oder 1000 Tonnen Fracht tragen. Sie wurden nach traditionellen Docklandungsschiffmerkmalen kunstruiert, welche einen geringen Tiefgang sowie, ein durchgehendes Fahrzeugdeck mit Bug- und Heckrampen besitzen auf dem die Fahrzeuge nach dem RoRo Prinzip entladen werden können. Aufgrund des geringen Tiefgangs können diese Schiffe sich an Stränden auf Grund setzen um Truppen und Kriegsmaterial zügig zu entladen.
