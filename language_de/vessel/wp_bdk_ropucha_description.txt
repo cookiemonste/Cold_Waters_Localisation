@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Ropucha
-Description=Ropucha-class landing ship
-DefensiveWeapons=57mm AA Guns\nShoulder-launched SA-7 SAM
-OffensiveWeapons=122mm artillery rocket launcher
-Sensors=Navigation radar only
-History=Nineteen of these ships were completed between 1975 and 1985. Each ship can carry 10 main battle tanks or 25 armored personel carriers along with 340 troops, representing all of the vehicles and 25% of the men of an infantry battalion (the rest of which would be embarked on conventional transports such as the Amguema). Like the bigger Alligator, the Ropuchas are designed for roll-on, roll-off operations with bow and stern ramps feeding a continous vehicle deck, the bottom of the hull behing sloped so that the ship can nose up on a beach to deliver vehicles directly.\nThe ships are also fitted with rocket launchers for supporting amphibious operations with artillery fire.
+Description=Docklandungsschiff der Ropucha-Klasse
+DefensiveWeapons=57mm Fla-Waffen\nSchultergestütze SA-7 SAM
+OffensiveWeapons=122mm Raketenwerfer
+Sensors=nur Navigationsradar
+History=19 Schiffe wurden zwischen 1975 und 85 in Dienst gestellt. Jedes Schiff kann 10 Kampfpanzer oder 25 Schützenpanzer zusammen mit 340 Soldaten tragen, was der 25%igen Stärke eines Infanterie-Battalions entspricht(der Rest würde auf konventionellen Truppentransportern wie z.B. der Amguema transportiert werden). Wie die größere Alligator, wurden die Ropuchas für RoRo Operationen ausgelegt und besitzen Bug un Heckrampen sowie ein durchgehendes Fahrzeugdeck. Der Bug ist abgerunndet, dammit das Schiff auf Strände auffahren kann um Fahrzeuge direkt zu entladen.\nDie Schiffe verfügen außerdem über 122mm Raketenwerfer um Artillerieuntersützung zu ermöglichen.
