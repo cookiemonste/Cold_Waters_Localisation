@@ -1,7 +1,7 @@
-Basic Torpedoes
-Wire-Guided Torpedoes
-Missiles
+Ungelenkte Torpedos
+Drahtgelenkte Torpedos
+Flugkörper
 Navigation
-Target Motion Analysis (TMA)
-Sensors and Masts
-Tactics and Damage
+Target Motion Analysis (TMA) oder, Zielbewegungsanalyse
+Sensoren und Masten
+Taktiken und Schäden
