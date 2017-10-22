@@ -1,11 +1,11 @@
 Image=campaign/images/pact wolfpack 2
 MissionLocation=GIUK Spalte
 Briefing=12 JUN 1984
-Briefing=Ein riesiges Oscar Klasse Raketen U-Boot, versucht sich an den NATO ASW Schrankenpatrouillen vorbei zu schleichen und in die Nordatlantik-Konvoi-Strecken zu entkommen. Es hat wahrscheinlich einen starken U-Boot Begleitschutz also sei nicht leichtsinnig.
+Briefing=Ein riesiges Oscar Klasse Raketen U-Boot, versucht sich an den NATO U-Jagdpatroullien vorbei zu schleichen und in die Nordatlantischen Konvoi-Strecken zu entkommen. Es hat wahrscheinlich einen starken U-Boot Begleitschutz, handeln sie mit bedacht.
 Briefing=
 Briefing=Primäres Ziel:
-Briefing=Lokalisiere und versenke das Oscar
+Briefing=Lokalisieren sie und versenken sie das Oscar
 Briefing=
 Briefing=Sekundäres Ziel:
-Briefing=Lokalisiere und versenke jegliche begleit U-Boote falls möglich
+Briefing=Lokalisieren sie und versenken sie die begleit U-Boote.
 
