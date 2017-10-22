@@ -1,7 +1,7 @@
 Image=campaign/images/pact surface raiders 2
 MissionLocation=Dänemarkt Strasse, nähe Islands
 Briefing=04 FEB 1968
-Briefing=Sie haben Kontakt mit einer Soviet open-ocean ASW Gruppe, inklusive eines Hubschrauberträgers der dabei ist in den Nordatlantik auszubrechen mit der Intention unsere Polaris U-Boote zu jagen. 
+Briefing=Sie haben Kontakt mit einer sowjetischen Anti-U-Boot Gruppe hergestellt, inklusive eines Hubschrauberträgers der dabei ist in den Nordatlantik auszubrechen mit der Absicht unsere Polaris U-Boote zu jagen. 
 Briefing=
 Briefing=Primäres Ziel:
-Briefing=Versenke die Moskva
+Briefing=Versenken sie die Moskva
