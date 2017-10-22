@@ -1,7 +1,7 @@
 Image=campaign/images/nato missile land attack
 MissionLocation=Nähe Gremikha, Kola Halbinsel
 Briefing=27 MAR 1984
-Briefing=Führen Sie einen Angriff mit Marschflugkörpern durch, um einen vernichtenden Schlag tief im sojwtischen.
+Briefing=Führen Sie einen Angriff mit Marschflugkörpern durch, um einen vernichtenden Schlag tief im sojwtischen Hinterland zu verursachen.
 
 Briefing=
 Briefing=Primäres Ziel:
