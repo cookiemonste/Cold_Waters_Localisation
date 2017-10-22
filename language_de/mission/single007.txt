@@ -1,11 +1,11 @@
 Image=campaign/images/pact ssbn 2
 MissionLocation=In der polar Region
 Briefing=01 MAY 1984
-Briefing=Die Satellitendaten haben ergeben, dass ein sowjetischer Boomer tief in seiner Bastion lauert, wo er durch Schichten auf Schichten von Oberflächenkriegsschiffen und Jäger Killer U-Booten geschützt ist. Sie müssen in die Verteidigung eindringen und den Boomer versenken.
+Briefing=Die Satellitendaten haben ergeben, dass ein sowjetischer Boomer tief in seiner Bollwerk lauert, wo er durch Schichten auf Schichten von Überwasserschiffen und Jäger Killer U-Booten geschützt ist. Sie müssen in das Bollwerk eindringen und den Boomer versenken.
 
 Briefing=
 Briefing=Primäres Ziel:
-Briefing=Lokalisiere und versenke jegliche SSBNs
+Briefing=Lokalisieren und versenken sie alle sich im Gebiet befindenden SSBNs
 Briefing=
 Briefing=Sekundäres Ziel:
-Briefing=Lokalisiere und versenke jegliche bergleit U-Boote falls möglich
+Briefing=Lokalisieren und versenken sie möglicherweise eskortierende Jagd U-Boote.
