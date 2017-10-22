@@ -1,11 +1,11 @@
 Image=campaign/images/nato insertion 3
 MissionLocation=in der Nähe von Narvik
 Briefing=22 MAR 1984
-Briefing=Führe den ASW Handschuh aus um verdeckt ein spezial Kommando Team in das besetze Narvik abzusetzen.
+Briefing=Durfahren sie den Anti U-Boot Korridor um Spezialeinheiten in das besetze Narvik einzuschleusen.
 Briefing=
 Briefing=Primäres Ziel:
-Briefing=Laden Sie ein spezial Einsatz Kommando Team an Bord
-Briefing=Setzen sie das Team an der bestimmten Zone aus
+Briefing=Nehmen sie Spezialeinheiten an bord.
+Briefing=Setzen sie das Team an der vereinbarten Stelle aus.
 Briefing=
 Briefing=Sekundäres Ziel:
-Briefing=Vermeide entdeckt zu werden
+Briefing=Vermeiden sie die Entdeckung.
