@@ -1,12 +1,12 @@
 Image=campaign/images/nato missile land attack
 MissionLocation=Nähe Gremikha, Kola Halbinsel
 Briefing=27 MAR 1984
-Briefing=Führen Sie einen Angriff mit Langstreckenraketen aus, um einen zerschmetternden Schlag tief in den Sowjets Hinterhof zu liefern.
+Briefing=Führen Sie einen Angriff mit Marschflugkörpern durch, um einen vernichtenden Schlag tief im sojwtischen.
 
 Briefing=
 Briefing=Primäres Ziel:
-Briefing=Lade 8 TLAM Raketen
-Briefing=Feuere 8 TLAMs in die Ziel Zone
+Briefing=Laden sie 8 TLAM Raketen
+Briefing=Feuern sie die 8 TLAMs auf das Ziel ab.
 Briefing=
 Briefing=Sekundäres Ziel:
-Briefing=vermeide entdeckt zu werden
+Briefing=Vermeiden sie die Entdeckung.
