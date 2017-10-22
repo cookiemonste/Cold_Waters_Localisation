@@ -1,4 +1,4 @@
-Warte zusätzliche Befehle auf diesem Downlink.
+Warte auf zusätzliche Befehle auf diesem Downlink.
 Warte auf zusätzliche Befehle.
 Warte auf weitere Befehle auf diesem Downlink.
 Warte auf weitere Befehle.
@@ -6,9 +6,9 @@ Warte auf neue Befehle.
 Weitere Befehle zu übertragen auf diesem Downlink.
 Neue Befehle kommen bald auf diesem Downlink.
 Neue Befehle in Kürze zum übertragen auf diesem Downlink.
-Neue Befehle zum senden auf diesem Downlink soon.
-Neue Befehle zum übertrage auf diesem Downlink.
+Neue Befehle in kürze auf diesem Downlink.
+Neue Befehle zum übertragen auf diesem Downlink.
 Bereithalten für zusätzliche Befehle.
 Bereithalten für zusätzliche Befehle.
 Bereithalten für neue Befehle auf diesem Downlink.
-Bereithalten für neue Befehle
+Bereithalten für neue Befehle.
