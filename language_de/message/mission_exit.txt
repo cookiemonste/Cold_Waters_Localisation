@@ -1,6 +1,6 @@
-NoContact=Kapitän,\nXO Meldung:\nWIr haben keine Kontakte, bereit zum verlassen des Gebiets.\n<LEAVESTATUS>\n\nIhre Befehle Sir?
+NoContact=Kapitän,\nXO Meldung:\nWir haben keine Kontakte, bereit zum verlassen des Gebiets.\n<LEAVESTATUS>\n\nIhre Befehle Sir?
 Contact=Kapitän,\nXO Meldung:\nAktivität in der Nähe, wir müssen uns entfernen um das Gebiet zu verlassen.\n<LEAVESTATUS>\n\nIhre Befehle Sir?
-Flooding=Kapitän,\nXO Meldung:\nWir haben Flutung und müssen den Schaden beheben um das Gebiet zu verlassen.\n<LEAVESTATUS>\nIhre Befehle Sir?
-Sinking=Kapitän,\nXO Meldung:\nHüllenbruch! Wir haben kritischen Schaden und unkontrollierte Flutung, das Schiff ist verloren!\n<LEAVESTATUS>\nIhre Befehle Sir?
-Doomed=Kapitän,\nXO Meldung:\nPressure hull breach! Wir haben kritischen Schaden und unkontrollierte Flutung und unterhalb der Fluchttife. Es war mir eine Ehere mit Ihnen zu dienen Kommandant.\n<LEAVESTATUS>\nIhre Befehle Sir?
+Flooding=Kapitän,\nXO Meldung:\nWir haben Wassereinbruch und müssen den Schaden beheben um das Gebiet zu verlassen.\n<LEAVESTATUS>\nIhre Befehle Sir?
+Sinking=Kapitän,\nXO Meldung:\nDrückkörper beschädigt! Wir haben kritischen Schaden und unkontrollierte Flutung, das Schiff ist verloren!\n<LEAVESTATUS>\nIhre Befehle Sir?
+Doomed=Kapitän,\nXO Meldung:\nDruckkörper stark beschädigt! Wir haben kritischen Schaden und unkontrollierte Flutung und unterhalb der Fluchttife. Es war mir eine Ehere mit Ihnen zu dienen, Kommandant.\n<LEAVESTATUS>\nIhre Befehle Sir?
 OutOfBounds=Kapitän,\nXO Meldung:\n\nWir haben das Gefechtsgebiet verlassen.\n<LEAVESTATUS>\nIhre Befehle Sir?
