@@ -1,10 +1,10 @@
 Image=campaign/images/pact warship tender 1
 MissionLocation=Westlich von Island
 Briefing=25 MAY 1968
-Briefing=Ihre Befele sind Nachschubtruppen abzufangen die vermutetich irgendwo im Nordatlantik westlich von Island operieren, wo sie eine aggresive Sovietischen Anti-Konvoi Operation unterstützen. Nach mehreren Ereignislosen tagen entdeckt das Sonar einen einsamen Kontakt.
+Briefing=Ihre Befele sind, Nachschubtruppen abzufangen die vermutlich, irgendwo im Nordatlantik westlich von Island operieren, wo sie eine aggresive sovietische Anti-Konvoi Operation unterstützen. Nach mehreren Ereignislosen tagen entdeckt das Sonar einen einsamen Kontakt.
 Briefing=
 Briefing=Primäres Ziel:
-Briefing=Lokalisieren und sinken die Tender
+Briefing=Lokalisieren und versenken sie die Tender
 Briefing=
 Briefing=Sekundäres Ziel:
-Briefing=Lokalisiere und versenke jegliche Kriegsschiffe falls möglich.
+Briefing=Lokalisieren und versenken sie esktortierende Kriegsschiffe falls möglich.
