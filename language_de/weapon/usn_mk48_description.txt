@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=MK48
 WeaponDescriptiveName=Mark 48 Torpedo (Mk48)
-WeaponDescription=Der Mk48 ist ein fortgeschrittener Doppelfunktion Torpedo im Dienst der US Navy seit 1972, wo es die Mk14 und Mk37 Torpedos ersetzt hat. Es verbindet große Geschwindigkeit und ein fortgeschrittenes passiv / aktiv zielsuchendes System zusammen mit einer beeindruckenden Reichweite von 4000 Yards.
+WeaponDescription=Der Mk48 ist ein fortgeschrittener Mehrzwecktorpedo. Im Dienst der US Navy seit 1972, ersetze er Mk14 und Mk37 Torpedos. Es verbindet große Geschwindigkeit sowie ein fortgeschrittenes passiv / aktives Leitsystem mit einer beeindruckenden Reichweite von 4000 Yards.
