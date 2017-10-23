@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=SET-65
 WeaponDescriptiveName=SET-65 Torpedo
-WeaponDescription=Der SET-65 ist ein elektrischer Doppelfunktion Torpedo mit aktiver akustischer Führung. Die Reichweite des zielsuchende Systems beträgt ca. 880 Meter.
+WeaponDescription=Der SET-65 ist ein elektrischer Mehrzwecktorpedo mit aktiver akustischer Führung. Die Reichweite des Suchkopfes beträgt beträgt ca. 880 Meter.
