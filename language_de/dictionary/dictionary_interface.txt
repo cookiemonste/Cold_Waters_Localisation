@@ -90,14 +90,14 @@ Depth=DEP
 Rudder=RUD
 Planes=PLN
 Ballast=BAL
-Bearing=BRG
+Bearing=KRS
 Knot=KT
 Feet=FT
 Metre=M
 Range=RNG
 KiloYard=KYD
 Kilometer=KM
-Solution=SOL
+Solution=LÖS
 Percentage=%
 WeaponData=WPN DATA
 RangeToEnable=RTE
@@ -106,7 +106,7 @@ AmbientNoise=UMGEBUNGSGERÄUSCH
 Decibels=dB
 SurfaceDuct=DRUCK
 Layer=SCHICHT
-Floor=GRUND BEI
+Floor=BODEN BEI
 Contact=KONTAKT
 Offline=OFFLINE
 SignalStrength=SIG STR
@@ -350,12 +350,12 @@ Increase Power=Leistung Erhöhen
 Decrease Power=Leistung Senken
 
 Level Submarine=Gerade & Gleichbleibend
-Periscope Depth=Periscope Depth
+Periscope Depth=Sehrohrtiefe
 Blow Ballast=Ballast ausblasen
 Emergency Deep=Emergency Deep
 Sonar Mode=Aktivsonar
 Silent Running=Schleichfahrt
-Noisemaker=Lärminstrument
+Noisemaker=Täuschkörper
 
 ESM Mast=ESM-Mast
 RADAR Mast=Radarmast
@@ -400,7 +400,7 @@ Steer Torpedo Deep=Steer Torpedo Tief
 
 Time Compression=Zeitkompression
 Hide HUD=Verberge HUD
-Event Camera=Eventkamera An/Aus
+Event Camera=Ereigniskamera An/Aus
 
 Zoom In=Hereinzoomen
 Zoom Out=Herauszoomen
@@ -421,8 +421,8 @@ Patrol Speed=Patrouillengeschwindigkeit
 Flank Speed=Höchstgschwindigkeit
 Briefing=Besprechung
 
-Museum Next=Museum Vor
-Museum Previous=Museum Zurück
+Museum Next=Nächste Einheit
+Museum Previous=Vorherige Einheit
 
 Continue=Weiter
 Cancel or Quit=Abbrechen oder Beenden
